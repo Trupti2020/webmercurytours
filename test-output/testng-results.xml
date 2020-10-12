@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42131" started-at="2020-10-12T04:32:14Z" finished-at="2020-10-12T04:32:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42131" started-at="2020-10-12T04:32:14Z" finished-at="2020-10-12T04:32:56Z">
+      <class name="com.mercurytours.page.Run">
+        <test-method status="PASS" signature="OpennBrowser()[pri:0, instance:com.mercurytours.page.Run@61832929]" name="OpennBrowser" is-config="true" duration-ms="22308" started-at="2020-10-12T04:32:14Z" finished-at="2020-10-12T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpennBrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.mercurytours.page.Run@61832929]" name="login" duration-ms="397" started-at="2020-10-12T04:32:36Z" finished-at="2020-10-12T04:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Flightbooking()[pri:2, instance:com.mercurytours.page.Run@61832929]" name="Flightbooking" duration-ms="4428" started-at="2020-10-12T04:32:37Z" finished-at="2020-10-12T04:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flightbooking -->
+        <test-method status="PASS" signature="finbrokenlinks()[pri:3, instance:com.mercurytours.page.Run@61832929]" name="finbrokenlinks" duration-ms="14150" started-at="2020-10-12T04:32:41Z" finished-at="2020-10-12T04:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finbrokenlinks -->
+        <test-method status="PASS" signature="closeInstance()[pri:0, instance:com.mercurytours.page.Run@61832929]" name="closeInstance" is-config="true" duration-ms="747" started-at="2020-10-12T04:32:55Z" finished-at="2020-10-12T04:32:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeInstance -->
+      </class> <!-- com.mercurytours.page.Run -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
